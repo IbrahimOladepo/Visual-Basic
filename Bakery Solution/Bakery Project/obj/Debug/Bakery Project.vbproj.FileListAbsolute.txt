@@ -1,0 +1,25 @@
+S:\BBowers\Shared\MN260\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe.config
+T:\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe.config
+T:\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe
+T:\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.pdb
+T:\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.xml
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbprojResolveAssemblyReference.cache
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.frmMain.resources
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.Resources.resources
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbproj.GenerateResource.Cache
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.exe
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.xml
+T:\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.pdb
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe.config
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.exe
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.xml
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.pdb
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbprojResolveAssemblyReference.cache
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.frmMain.resources
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.Resources.resources
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbproj.GenerateResource.Cache
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.pdb
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.xml
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Ibrahim\Projects\VisualStudio_Project\MN260\MN260\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

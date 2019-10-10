@@ -1,0 +1,13 @@
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\bin\Debug\Arabic Restaurant Project.exe.config
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\bin\Debug\Arabic Restaurant Project.exe
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\bin\Debug\Arabic Restaurant Project.pdb
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\bin\Debug\Arabic Restaurant Project.xml
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic Restaurant Project.vbprojResolveAssemblyReference.cache
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic_Restaurant_Project.Form1.resources
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic_Restaurant_Project.Resources.resources
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic Restaurant Project.vbproj.GenerateResource.Cache
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic Restaurant Project.exe
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic Restaurant Project.xml
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\obj\Debug\Arabic Restaurant Project.pdb
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Ibrahim\Projects\VisualStudio_Project\Arabic Restaurant Solution\Arabic Restaurant Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
